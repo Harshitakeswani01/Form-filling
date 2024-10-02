@@ -1,0 +1,27 @@
+div{
+    background-color: salmon;
+    height:25px;
+    padding:10px;
+    margin:10px;
+    width:60px;
+} 
+label {
+    background-color: khaki;
+}
+  
+.req {
+    color: red;
+}
+  
+*:optional {
+    background-color:blanchedalmond;
+}
+  
+style{
+    border: 600px;
+}
+fieldset{
+    height:550px;
+    border: 2px solid blueviolet;
+    background-color: aquamarine;
+}
